@@ -1,5 +1,7 @@
 # ***CamPro***: Camera-based Anti-Facial Recognition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10156141.svg)](https://doi.org/10.5281/zenodo.10156141)
+
 > Accepted by Network and Distributed System Security (NDSS) Symposium 2024
 
 ## Requirements
