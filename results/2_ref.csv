@@ -1,0 +1,13 @@
+Name,Black-box,Protector-Only
+adaface_ir18,False,0.014023
+arcface_irse50,True,0.009481
+magface_ir18,True,0.024491
+arcface_ir18,True,0.027355
+facenet,True,0.047106
+arcface_ir152,True,0.129469
+magface_ir50,True,0.225262
+magface_ir100,True,0.273751
+adaface_ir50,True,0.323524
+adaface_ir100,True,0.409836
+Average Black-box Accuracy,None,0.163364
+Accuracy ratio (Black-box/White-box),None,11.649453
